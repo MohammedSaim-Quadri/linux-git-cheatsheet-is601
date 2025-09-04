@@ -117,6 +117,7 @@ Configure user information for commits.
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
+git config --list
 ```
 
 ### 15) git status
