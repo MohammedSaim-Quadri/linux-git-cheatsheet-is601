@@ -66,6 +66,7 @@ Add interactive copy: `cp -i file.txt backup.txt`
 ### 7) mv
 Move or rename files.  
 **Usage:** `mv old.txt new.txt`
+**Example to perform directory move:**`mv *.log logs/`
 
 ### 8) rm
 Remove files or directories.  
