@@ -149,6 +149,10 @@ Save changes to history.
 ```bash
 git commit -m "Message"
 ```
+another way this command is used:
+```bash
+git commit   # opens editor where you type out your commit message
+```
 
 ### 18) git branch
 List or create branches.
