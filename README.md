@@ -126,6 +126,7 @@ Show repo status (modified, staged, untracked files).
 ```bash
 git status
 ```
+Shows the changes to be committed, not staged for commit, untracked files, branch information and merge conflicts.
 
 ### 16) git add
 Stage changes for commit.
