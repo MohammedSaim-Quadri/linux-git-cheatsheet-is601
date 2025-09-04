@@ -160,6 +160,7 @@ List or create branches.
 ```bash
 git branch         # list
 git branch feature # create
+git branch -a      # list both local and remote-tracking branches
 ```
 
 ### 19) git merge
