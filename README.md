@@ -71,6 +71,7 @@ Move or rename files.
 ### 8) rm
 Remove files or directories.  
 **Usage:** `rm -rf mydir`
+**Dangerous!!**: never run `rm -rf /`
 
 ### 9) cat
 Print file contents.  
