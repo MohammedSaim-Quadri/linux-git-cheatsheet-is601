@@ -180,3 +180,10 @@ git remote add origin git@github.com:user/repo.git
 git push -u origin main
 git pull
 ```
+these commands also have flags:
+```bash
+git remote -v             #list both the shortname (e.g., "origin") and the associated fetch and push URLs.
+git push --all origin     # pushes all local branches to remote
+git pull --no-commit      # fetches and merges changes but stops before creating a merge commit
+```
+
