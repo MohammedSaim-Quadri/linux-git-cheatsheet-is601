@@ -86,7 +86,8 @@ Search inside files.
 ### 11) chmod
 Change file permissions.  
 **Usage:** `chmod +x script.sh`
-
+**Example:**`chmod 644 file.txt   # rw-r--r--`; this examples uses the numeric way of assigning/changing permissions.
+ 
 ---
 
 ## Git Commands
