@@ -98,6 +98,7 @@ Initialize a new Git repository in the current folder.
 ```bash
 git init
 ```
+This is always the first command when starting a repo from scratch.
 
 ### 13) git clone
 Clone (download) a repo from GitHub.
