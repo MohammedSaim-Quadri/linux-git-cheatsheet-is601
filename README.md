@@ -32,6 +32,7 @@ This cheat sheet covers essential Linux and Git commands, with usage, flags, and
 List files and directories.  
 **Usage:** `ls -la`  
 **Example:** `ls -lh /var/log`
+**Flags:** `-a` show hidden, `-h` human-readable, `-l` long format
 
 ### 2) cd
 Change directories.  
