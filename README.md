@@ -134,6 +134,14 @@ Stage changes for commit.
 ```bash
 git add file.txt or git add .
 ```
+can also add multiple file at once:
+```bash
+git add file1 file2
+```
+or all at once:
+```bash
+git add .
+```
 
 ### 17) git commit
 Save changes to history.
