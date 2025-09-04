@@ -44,6 +44,7 @@ Change directories.
 ### 3) pwd
 Print current working directory.  
 **Usage:** `pwd`
+**Note:** Useful when copying absolute paths.
 
 ### 4) mkdir
 Create new directories.  
