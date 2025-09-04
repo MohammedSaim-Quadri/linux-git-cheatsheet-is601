@@ -37,7 +37,9 @@ List files and directories.
 ### 2) cd
 Change directories.  
 **Usage:** `cd /path/to/dir`  
-**Example:** `cd ..` → go up one directory
+**Examples:**
+`cd ..` → go up one directory
+`cd ~` → go to home
 
 ### 3) pwd
 Print current working directory.  
