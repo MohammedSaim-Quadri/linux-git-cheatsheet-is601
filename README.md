@@ -76,6 +76,7 @@ Remove files or directories.
 ### 9) cat
 Print file contents.  
 **Usage:** `cat file.txt`
+**Example:**`cat -n file.txt`; this example uses the flag -n, which gives the line numbers for each line present.
 
 ### 10) grep
 Search inside files.  
