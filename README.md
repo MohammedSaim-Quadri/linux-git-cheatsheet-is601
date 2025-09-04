@@ -170,6 +170,7 @@ Merge one branch into another.
 git switch main
 git merge feature
 ```
+May require manual conflict resolution.
 
 ### 20) git remote / push / pull
 Connect with remotes and sync.
