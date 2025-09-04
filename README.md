@@ -49,6 +49,8 @@ Print current working directory.
 ### 4) mkdir
 Create new directories.  
 **Usage:** `mkdir -p project/src`
+**Example:**`mkdir projects && cd projects`
+
 
 ### 5) touch
 Create empty files / update timestamps.  
