@@ -106,6 +106,10 @@ Clone (download) a repo from GitHub.
 ```bash
 git clone git@github.com:user/repo.git
 ```
+HTTPS alternative:
+```bash
+git clone https://github.com/user/repo.git
+```
 
 ### 14) git config
 Configure user information for commits.
