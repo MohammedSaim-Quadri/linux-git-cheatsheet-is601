@@ -60,6 +60,8 @@ Create empty files / update timestamps.
 ### 6) cp
 Copy files and directories.  
 **Usage:** `cp -r src dst`
+**Example:**
+Add interactive copy: `cp -i file.txt backup.txt`
 
 ### 7) mv
 Move or rename files.  
