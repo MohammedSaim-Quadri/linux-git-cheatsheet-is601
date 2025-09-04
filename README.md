@@ -81,6 +81,7 @@ Print file contents.
 ### 10) grep
 Search inside files.  
 **Usage:** `grep -i "error" logfile.log`
+**Example:**`grep -rn "main" src/'; this example uses the recursive and line number flag to recursively search for the pattern and also give the line number in file where the match occurs. 
 
 ### 11) chmod
 Change file permissions.  
