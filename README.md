@@ -55,6 +55,7 @@ Create new directories.
 ### 5) touch
 Create empty files / update timestamps.  
 **Usage:** `touch notes.txt`
+**Example:**`touch file1 file2 file3`; this creates multiple files at once
 
 ### 6) cp
 Copy files and directories.  
